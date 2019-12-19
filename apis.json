@@ -1,0 +1,66 @@
+{
+    "name": "Palo Alto, CA",
+    "description": "Fast, easy, and affordable way to transform data into resources that businesses, governments, NGOs, academia and citizens can use.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1577-palo-alto,-ca.jpg",
+    "tags": [
+        "california",
+        "city government",
+        "data",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/palo-alto-ca\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Palo Alto, CA",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1577-palo-alto,-ca.jpg",
+            "humanURL": "http:\/\/paloalto.opendata.junar.com\/developers\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/palo-alto-ca-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/palo-alto-ca-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/junar"
+        },
+        {
+            "type": "Email",
+            "url": "contact@junar.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@junar.com"
+        },
+        {
+            "type": "Email",
+            "url": "developers@junar.com"
+        },
+        {
+            "type": "Email",
+            "url": "webmaster@junar.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/junar"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/paloalto.opendata.junar.com\/developers\/"
+        }
+    ]
+}
